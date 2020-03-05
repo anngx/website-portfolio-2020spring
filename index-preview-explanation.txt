@@ -3,5 +3,8 @@ or the website's index. In an HTML paragraph, I've included 3 hyperlinks to othe
 2D, 3D, and Digital. These are the divisions of my website which will eventually become 
 tabs on top of the page. When these hypertext links are clicked on, they lead the user to 
 their respective pages. I have not yet included information on the landing pages. This is 
-simply because most of the content on my website will be photgraphs, which I have not gotten
-around to taking and editing. 
+simply because most of the content on my website will be photographic images, which I have 
+not gotten around to taking and editing. I am not sure if putting the hypertext links into 
+paragraphs is the correct is thing it to do if I want the linked tabs to be ultimately 
+displayed at the top of the page, but for now that's what I did. I am guessing that I can 
+place them at the top of the page eventually through CSS. 
