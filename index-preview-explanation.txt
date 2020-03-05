@@ -1,0 +1,7 @@
+In this preview, I am showing a very preliminary preview of my first/home/landing page, 
+or the website's index. In an HTML paragraph, I've included 3 hyperlinks to other pages: 
+2D, 3D, and Digital. These are the divisions of my website which will eventually become 
+tabs on top of the page. When these hypertext links are clicked on, they lead the user to 
+their respective pages. I have not yet included information on the landing pages. This is 
+simply because most of the content on my website will be photgraphs, which I have not gotten
+around to taking and editing. 
