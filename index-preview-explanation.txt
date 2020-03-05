@@ -1,10 +1,19 @@
 In this preview, I am showing a very preliminary preview of my first/home/landing page, 
 or the website's index. In an HTML paragraph, I've included 3 hyperlinks to other pages: 
 2D, 3D, and Digital. These are the divisions of my website which will eventually become 
-tabs on top of the page. When these hypertext links are clicked on, they lead the user to 
-their respective pages. I have not yet included information on the landing pages. This is 
-simply because most of the content on my website will be photographic images, which I have 
-not gotten around to taking and editing. I am not sure if putting the hypertext links into 
-paragraphs is the correct is thing it to do if I want the linked tabs to be ultimately 
-displayed at the top of the page, but for now that's what I did. I am guessing that I can 
-place them at the top of the page eventually through CSS. 
+clickable tabs on top of the page. When these hypertext links are clicked on, they lead the 
+user to their respective pages. Right now, it is easy to see that the links are able to be 
+clicked on because they are underlined as well as displayed in purple and blue. I have not 
+yet included information on these landing pages. This is simply because most of the content 
+on my website will be photographic images, which I have not gotten around to taking and editing. 
+I am not sure if putting the hypertext links into paragraphs is the correct is thing it to do 
+if I want the linked tabs to be ultimately displayed at the top of the page, but for now that 
+is what I did. I am guessing that I can place them at the top of the page eventually through CSS.
+Eventually, I will be adding either an artist's statement page or an about me page, and that page will 
+be a clickable tab at the top of the website's home page as well. This is the area of my website
+that will have the most about of text, most likely, because I want to minimize the amount of 
+reading viewers' must do. Because most of my work is visual artwork, I want to have viewers tuned into just seeing
+and observing, instead of having to spend a lot of time reading and processing textual information. 
+I have not yet decided on an official color scheme, but I will probably stick to black and white 
+in order to keep things looking clean and simple. I don't want a website design that will distract 
+from the webpages' main content. 
